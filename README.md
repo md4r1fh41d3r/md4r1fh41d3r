@@ -1,8 +1,8 @@
 # Hi, I'm Md Arif Haider
 
-**Senior Flutter Developer · iOS & Android App Developer · Mobile App Architect · Dhaka, Bangladesh**
+**Software Engineer · Flutter & Mobile App Developer · Dhaka, Bangladesh**
 
-I build polished, production-grade iOS and Android apps with Flutter — and the backends that power them. I've been shipping software since 2017 and am currently a **Software Engineer II at Liberate Labs**, building Bullseye, a coaching and classroom-observation app for educators.
+I build polished, production-grade Flutter apps — and the backends that power them. I've been shipping software since 2017 and am currently a **Software Engineer II at Liberate Labs**, building Bullseye, a coaching and classroom-observation app for educators.
 
 **Portfolio:** [me.mdarifhaider.com](https://me.mdarifhaider.com) · **LinkedIn:** [in/md4r1fh41d3r](https://www.linkedin.com/in/md4r1fh41d3r) · **Email:** mohammadarifhaider@gmail.com
 
@@ -14,12 +14,6 @@ I build polished, production-grade iOS and Android apps with Flutter — and the
 - **[Puzzle Mania BD](https://www.puzzlemaniabd.com)** — SEO-first e-commerce store on Next.js, Supabase and bKash.
 
 More projects on the [portfolio](https://me.mdarifhaider.com/#projects).
-
-## What I do
-
-- **Flutter app development** — cross-platform iOS & Android apps from one Dart codebase, through to App Store and Google Play release.
-- **Mobile app architecture** — Clean Architecture, BLoC / Riverpod, dependency injection and team conventions that keep large apps maintainable.
-- **Backend & API integration** — Node.js / Express, Firebase, Supabase, Socket.IO, payments and third-party APIs.
 
 ## Tech I work with
 
